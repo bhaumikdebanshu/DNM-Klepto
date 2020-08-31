@@ -16,6 +16,7 @@ h2,p {
 #ff-compose{
     margin-left : 10%;
     margin-bottom: 50px;
+    margin-right: 10%;
 }
 
 #ff-title-root{
@@ -32,6 +33,10 @@ h2,p {
 #ff-success{
     color : white;
     text-align: left !important; 
+}
+
+.ff-partial{
+    margin-left: 0 !important;
 }
 
  /* #ff-success .btn btn-primary {
