@@ -37,6 +37,7 @@ h2,p {
 
 .ff-partial{
     margin-left: 0 !important;
+    width : 100% !important;
 }
 
  /* #ff-success .btn btn-primary {
